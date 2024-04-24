@@ -8,6 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2024-04-23
 
 ### Added
+Added arquivo.txt 
+Added arquivo2.txt
 Added changelog.md
-Removed arquivo.txt 
-Removed arquivo2.txt
